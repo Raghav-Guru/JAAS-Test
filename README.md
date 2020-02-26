@@ -3,7 +3,7 @@ Simple java class to check Login context using JAAS file.
 
 ``` 
 #git clone https://github.com/Raghav-Guru/JAAS-Test.git
-#javac JaasTest.java ```
+#javac JaasTest.java
 #java -Dsun.security.krb5.debug=true JaasTest <JaasFile> <ContextName>
 ```
 
